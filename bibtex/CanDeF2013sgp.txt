@@ -1,0 +1,13 @@
+BibTeX Record for the following paper:
+
+David Canino and Leila De Floriani, An Extensible Framework for Modeling Simplicial and Cell Complexes
+Poster Compendium of the Eurographics Symposium on Geometry Processing (SGP 2013, July 3-5, 2013, Genova, Italy), 2013
+
+@inproceedings{ CanDeF2013sgp_poster,
+  author = { Canino, David and De~Floriani, Leila},
+  title = {An {E}xtensible {F}ramework for {M}odeling {S}implicial and {C}ell {C}omplexes},
+  booktitle = {Poster {C}ompendium of the Symposium on Geometry Processing (SGP 2013)},
+  year = {2013},
+  address = {Genova, Italy},
+  month = {July 3-5},
+}

@@ -1,0 +1,16 @@
+BibTeX Record for the following paper:
+
+David Canino and Leila De Floriani
+A Compact Representation for Topological Decompositions of Non-Manifold Shapes
+Proceedings of the 8th Joint Conference on Computer Vision, Imaging, Computer Graphics Theory and Applications (GRAPP 2013, Barcelona, Spain, February 21-24, 2013)
+pages 100-107, 2013
+
+@INPROCEEDINGS{ CanDeF2013grapp,
+author={ Canino,D. and De~Floriani,L.},
+title={A {C}ompact {R}epresentation for {T}opological {D}ecompositions of {N}on-manifold {S}hapes},
+booktitle={Proceedings of the 8th {I}nternational {J}oint {C}onference on {C}omputer {V}ision, {I}maging and {C}omputer {G}raphics {T}heory and {A}pplications},
+year={2013},
+address={Barcelona, Spain},
+month ={ February 21-24},
+pages = {100-107}
+}

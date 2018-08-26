@@ -1,0 +1,29 @@
+BibTeX Record for the following paper:
+
+Dobrina Boltcheva, David Canino, Sara Merino Aceituno, Jean-Claude Le'on, Leila De Floriani, Franck He'troy
+An Iterative Algorithm for Homology Computation on Simplicial Shapes
+Proceedings of the SIAM Conference on Geometric and Physical Modeling (GD/SPM 2011, Orlando, FL, USA, October 24-27, 2011
+
+Also published as:
+
+Dobrina Boltcheva, David Canino, Sara Merino Aceituno, Jean-Claude Le'on, Leila De Floriani, Franck He'troy
+An Iterative Algorithm for Homology Computation on Simplicial Shapes
+Computer-Aided Design, Volume 43(11)::1457-1467, Elsevier Press, 2011
+
+@INPROCEEDINGS{ BolCanMeretal2011spm,
+author="{B}oltcheva, {D}obrina and {C}anino, {D}avid and {M}erino {A}ceituno, {S}ara and {L}\'eon, {J}ean-{C}laude and {D}e {F}loriani, {L}eila and {H}\'etroy, {F}ranck",
+title="{A}n {I}terative {A}lgorithm for {H}omology {C}omputation on {S}implicial {S}hapes",
+booktitle="{P}roceedings of the {SIAM C}onference on {G}eometric and {P}hysical {M}odeling ({GD/SPM} 2011})",
+address="{O}rlando, {FL}, USA",
+month="{O}ctober 24-27",
+year="2011" }
+	
+@ARTICLE{ BolCanMeretal2011cad,
+author="{B}oltcheva, {D}obrina and {C}anino, {D}avid and {M}erino {A}ceituno, {S}ara and {L}\'eon, {J}ean-{C}laude and {D}e {F}loriani, {L}eila and {H}\e'troy, {F}ranck",
+title="{A}n {I}terative {A}lgorithm for {H}omology {C}omputation on {S}implicial {S}hapes",
+journal="{C}omputer-{A}ided {D}esign",
+publisher="{E}lsevier {P}ress",
+volume="43",
+number="11",
+pages="1457-1467",
+year="2011" }

@@ -1,0 +1,18 @@
+BibTeX Record for the following paper:
+
+David Canino 
+Manipulating Topological Decompositions of Non-Manifold Shapes
+Proceedings of the Smart Tools and Apps in computer Graphics (STAG 2016, Genoa, Italy, October 3-4, 2016)
+Eurographics Association for Computer Graphics (Digital Library), pages 11-20, 2016
+
+@INPROCEEDINGS{ Canino2016stag,
+author={Canino,D.},
+title={Manipulating {T}opological {D}ecompositions of {N}on-{M}anifold {S}hapes},
+booktitle={Proceedings of the {S}mart {T}ools and {A}pps in computer {G}raphics (STAG 2016)},
+year={2016},
+address={Genoa, Italy},
+month={October 3-4},
+publisher={Eurographics {A}ssociation for {C}omputer {G}raphics ({D}igital {L}ibrary)},
+pages={11-20},
+year={2016}
+}

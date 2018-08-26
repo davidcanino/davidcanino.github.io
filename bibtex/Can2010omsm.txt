@@ -1,0 +1,16 @@
+BibTeX Record for the following paper:
+
+David Canino
+A Dimension-Independent and Extensible Framework for Huge Geometric Models
+In Enrico Puppo, Andrea Brogni, and Leila De Floriani Editors, Proceedings of the 8th Eurographics Italian Chapter, Genova, Italy, November 18-19, 2010
+pages 111-116, 2010
+
+@INPROCEEDINGS{ Can010egit,
+author="{C}anino, {D}.",
+title="{A} {D}imension-{I}ndependent and {E}xtensible {F}ramework for {H}uge {G}eometric {M}odels",
+booktitle="{Proceedings of the 8th {E}urographics {I}talian {C}hapter {C}onference},
+pages={111-116},
+publisher={Eurographics Association},
+year={2010},
+editor={Puppo, Enrico and Brogni, Andrea and De Floriani, Leila},
+}

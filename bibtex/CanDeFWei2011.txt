@@ -1,0 +1,24 @@
+BibTeX Record for the following paper:
+
+David Canino, Leila De Floriani, and Kenneth Weiss
+IA*: an Adjacency-based Representation for Non-Manifold Simplicial Shapes in Arbitrary Dimensions
+Computer & Graphics, volume 35(3)::747-753, Elsevier Press 2011
+Special Issue: Proceedings of the Shape Modeling International (SMI 2011), Herzliya, Israel, June 22-24, 2011
+
+@INPROCEEDINGS{ CanDeFWei2011smi,
+author="{C}anino, {D}avid and {D}e {F}loriani, {L}eila and {W}eiss, {K}enneth",
+title="IA$^{*}$: {A}n {A}djacency-{B}ased {R}epresentation for {N}on-{M}anifold {S}implicial {S}hapes in {A}rbitrary {D}imensions",
+booktitle="{P}roceedings of the {S}hape {M}odeling {I}nternational ({SMI  2011})",
+address="{H}erzliya, {I}srael",
+month="{J}une 22-24",
+year="2011" }
+
+@ARTICLE{ CanDeFWei2011cgjournal,
+author="{C}anino, {D}avid and {D}e {F}loriani, {L}eila and {W}eiss, {K}enneth",
+title="IA$^{*}$: {A}n {A}djacency-{B}ased {R}epresentation for {N}on-{M}anifold {S}implicial {S}hapes in {A}rbitrary {D}imensions",
+journal="{C}omputer \& {G}raphics",
+volume="35",
+number="3",
+pages="747-753",
+publisher="{E}lsevier {P}ress", 
+year="2011" }

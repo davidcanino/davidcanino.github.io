@@ -1,0 +1,15 @@
+BibTeX Record for the following paper:
+
+David Canino, Tools for Modeling and Analysis of Non-Manifold Shapes, PhD Thesis,
+Department of Computer Science, Bioengineering, Robotics and Systems Engineering (DIBRIS), University of Genova, Genova, Italy
+Internal Report, DISI-TH-2012-01, 2012
+
+@PHDTHESIS{ Can2012,
+author={ Canino,D.},
+title={Tools for {M}odeling and {A}nalysis of {N}on-manifold {S}hapes},
+school={Department of {C}omputer {S}cience, {B}ioengineering, {R}obotics and {S}ystems {E}ngineering (DIBRIS), University of Genova},
+address={Genova, Italy},
+month={May},
+note={Internal Report DISI-TH-2012-01},
+year={2012}
+}

@@ -1,0 +1,12 @@
+BibTeX Record for the following paper:
+
+David Canino
+Semplificazione di Modelli Geometrici in Memoria Secondaria (in Italian)
+Tesi di Laurea Quinquennale in Informatica (equivalent to Bachelor + Master's Degree in Computer Science), Defended on October 30, 2007
+Department of Computer Science, Genova, Italy
+
+@MASTERSTHESIS { Can2007msthesis,
+AUTHOR = {Canino, David},
+TITLE = "{S}emplificazione di {M}odelli {G}eometrici in {M}emoria {S}econdaria",
+SCHOOL="{Department of Computer Science, Genova, Italy},
+YEAR = "2007" }

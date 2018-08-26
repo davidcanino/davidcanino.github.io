@@ -1,0 +1,17 @@
+BibTeX Record for the following paper:
+
+David Canino and Leila De Floriani,
+A Decomposition-based Approach to Modeling and Understanding Arbitrary Shapes
+Andrea Abate, Michele Nappi, and Genny Tortora Editors, Proceedings of the 9th Eurographics Italian Chapter Conference (EGIT 2011, Salerno, Italia, November 24-25, 2011)
+pages 53-60, Eurographics Association, 2011
+
+@INPROCEEDINGS{ CanDeF2011egit,
+author={ Canino, David and De~Floriani, Leila},
+title={ A {D}ecomposition-based {A}pproach to {M}odeling and {U}nderstanding {A}rbitrary Shapes},
+editor = { Abate, Andrea and Nappi, Michele and Tortora, Genny},
+booktitle={ Proceedings of the 9th {E}urographics {I}talian {C}hapter {C}onference},
+pages={53-60},
+publisher={Eurographics {A}ssociation},
+year={2011}
+}
+

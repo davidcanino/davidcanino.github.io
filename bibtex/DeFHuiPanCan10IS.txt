@@ -1,0 +1,18 @@
+BibTeX Record for the following paper:
+
+Leila De Floriani, Annie Hui, Daniele Panozzo, and David Canino
+A Dimension-Independent Data Structure for Simplicial Complexes
+Suzanne Shontz Editor, Proceedings of the 19th International Meshing Roundtable (IMR 2010, Chattanooga, TN, USA, October 4-6, 2010)
+pages 403-420, Springer 2010
+
+
+@INCOLLECTION{ DeFHuiPanCan2010,
+author="{D}e~{F}loriani,{L}. and {H}ui, {A}. and {P}anozzo,{D}. and {C}anino, {D}.",
+title="{A} {D}imension-{I}ndependent {D}ata {S}tructure for {S}implicial {C}omplexes",
+booktitle="{P}roceedings of the $19^{th}$ {I}nternational {M}eshing {R}oundtable (IMR 2010)",
+address"{C}hattanooga, TN, USA",
+month="October 4-6",
+pages={403-420},
+editor={Shontz, Suzanne},
+publisher={Springer},
+year="2010" }

@@ -1,0 +1,14 @@
+BibTeX Record for the following paper:
+
+David Canino
+An Extensible Framework for Huge Geometric Models,
+Technical Report DISI-TR-09-08, Department of Computer Science, Genova, Italy, December 2009
+
+@TECHREPORT{ Can2009tech,
+AUTHOR="Canino, David",
+TITLE="An {E}xtensible {F}ramework for {H}uge {G}eometric {M}odels",
+NUMBER="DISI--TR--09--08",
+INSTITUTION="Department of {C}omputer {S}cience, Genova, Italy",
+MONTH="December",
+YEAR="2009" }
+

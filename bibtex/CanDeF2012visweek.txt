@@ -1,0 +1,13 @@
+BibTeX Record for the following paper:
+
+David Canino and Leila De Floriani, An Extensible Framework for Modeling Simplicial Complexes
+Poster Compendium of the IEEE Visualization 2012 (VisWeek 2012, October 14-19, 2012 Seattle, WA, USA)
+
+@inproceedings{ CanDeF2012vis_poster,
+  author = { Canino, David and De~Floriani, Leila},
+  title = {An Extensible Framework for Modeling Simplicial Complexes},
+  booktitle = {IEEE Visualization 2012 Poster Compendium},
+  year = {2012},
+  address = {Seattle, Washington, USA},
+  month = {October 14-19},
+}

@@ -1,0 +1,16 @@
+BibTeX Record for the following paper:
+
+David Canino and Leila De Floriani
+Representing Simplicial Complexes with Mangroves
+Josep Sarrate and Matthew Staten Editors, Proceedings of the 22nd International Meshing Roundtable (IMR 2013, Orlando, FL, USA, October 13-16, 2013)
+pages 465-483, Springer, 2013
+
+@ARTICLE{ CanDeF2013imr,
+author={ Canino,D. and De~Floriani, L.},
+title={Representing {S}implicial {C}omplexes with {M}angroves},
+booktitle={Proceedings of the 22nd {I}international {M}eshing {R}oundtable},
+year={2013},
+editor={Sarrate,J. and Staten,M.},
+pages={465-483},
+publisher={Springer}
+}
